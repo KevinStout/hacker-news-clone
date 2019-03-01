@@ -26,3 +26,6 @@ class App extends Component {
 }
 
 export default App;
+
+// Link to the tutorial, if I want to finish later
+// https://levelup.gitconnected.com/react-redux-tutorial-build-a-hacker-news-clone-64f320364f85
